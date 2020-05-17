@@ -1,0 +1,1 @@
+cp ../housing/data/zipcodes.geojson . & cp ../housing/data/zipcode_points.geojson . & git add -A & git commit -m "copy over - $(date)" & ggp
